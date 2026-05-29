@@ -1,0 +1,30 @@
+{
+  "about": {
+    "groupName": "Sphinx Works",
+    "tagline": "We create magic.",
+    "logo": "/assets/images/logo/_temp_cat_logo.png"
+  },
+  "members": [
+    {
+      "id": "asuka",
+      "name": "Asuka Langley Soryu",
+      "image": "/assets/images/profile/_temp_asuka.png",
+      "introduction": "Genius programmer and artist."
+    },
+    {
+      "id": "shinji",
+      "name": "Shinji Ikari",
+      "image": "/assets/images/profile/_temp_shinji.png",
+      "introduction": "A boy with a cello."
+    }
+  ],
+  "works": [
+    {
+      "id": "work-1",
+      "title": "Evangelion Unit-02",
+      "image": "/assets/images/works/_temp_works_1.jpg",
+      "description": "Production Model."
+    }
+  ],
+  "lastUpdated": "2026-05-29T07:12:17.818Z"
+}
