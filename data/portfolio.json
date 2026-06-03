@@ -9,13 +9,37 @@
       "id": "nt",
       "name": "LowwNT",
       "image": "/assets/images/profile/nt.png",
-      "introduction": "<멤버 설명> <멤버 설명> <멤버 설명> <멤버 설명> <멤버 설명>"
+      "introduction": "<멤버 설명> <멤버 설명> <멤버 설명> <멤버 설명> <멤버 설명>",
+      "socials": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/loww.nt",
+          "logo": "/assets/images/socials/icons/instagram.png"
+        }
+      ]
     },
     {
       "id": "mode",
       "name": "Mode",
       "image": "/assets/images/profile/mode.png",
-      "introduction": "<멤버 설명> <멤버 설명> <멤버 설명> <멤버 설명> <멤버 설명>"
+      "introduction": "<멤버 설명> <멤버 설명> <멤버 설명> <멤버 설명> <멤버 설명>",
+      "socials": [
+        {
+          "kind": "instagram",
+          "url": "https://www.instagram.com/_djmode",
+          "logo": "/assets/images/socials/icons/instagram.png"
+        },
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/@yura-hong",
+          "logo": "/assets/images/socials/icons/youtube.png"
+        },
+        {
+          "kind": "soundcloud",
+          "url": "https://soundcloud.com/yurahong",
+          "logo": "/assets/images/socials/icons/soundcloud.png"
+        }
+      ]
     }
   ],
   "works": [
@@ -50,5 +74,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-02T11:08:09.362Z"
+  "lastUpdated": "2026-06-03T10:53:12.951Z"
 }
